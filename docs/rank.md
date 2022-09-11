@@ -4,13 +4,13 @@
 
 | Rank        | Description | Leadership Level   |
 | :---        |    :----:   |          ---: |
-| King        | Guild Master| 6 |
-| Hands       | CO-GM        | 5 |
-| Council     | Senior Officer | 4 |
-| Scribe      | Guild Admin | 3 |
+| King        | Guild Master| 5 |
+| Hands       | CO-GM        | 4 |
+| Council     | Senior Officer | 3 |
 | Noble       | Lead Recruiter | 2 |
 | Keeper      | Recruiter | 1 |
+| Master at Arms | PvP & PvE Master | Non-Leader |
+| Warrior     | PvP Master | Non-Leader |
 | Knight      | Active Member Veteran | Non-Leader |
-| Squire      | Active Memeber Normal | Non-Leader |
-| Common      | Active Member General | Non-Leader |
-| Peasant     | New Member | Non-Leader |
+| Squire      | Active Member Normal | Non-Leader |
+| Common      | New/General Member | Non-Leader |
