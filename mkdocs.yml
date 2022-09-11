@@ -7,9 +7,12 @@ theme:
 nav:
 - Home: index.md
 - Rules: rules.md
+- Verification Guides:
+    - Guild Rules: verification.md
+    - Verification Guidelines: vg_admin.md
 - About the Guild:
     - About Our Ranks: rank.md
-    - GOCC: gocc.md
+    - Guild Analytics: gocc.md
 
 
 copyright: Copyright &copy; 2022 Chimney Sweepers
