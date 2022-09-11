@@ -1,0 +1,23 @@
+# Rules and Responsibilities
+
+### General rules for all officers:
+
+1.    Active – Our general membership has a requirement to be online or show online at least once per 20 days. I expect all officers to be online at least once every 10 days. Or communicate with me if you will be absent for an extended period of time. There are exceptions to this on a case-by-case basis. And of course be active in your specific officer ranks duties!
+
+2.    Enforcement – If you see someone that is being dysfunctional in guild chat. Inform them that this type of communication is prohibited. Then immediately inform the rest of the officer team via Discord. If the negative communication continues after your initial warning, then either remove the member from guild or notify a senior officer who can remove them for you. If the comments violate the “No Prejudice” rule in guild-etiquette, please inform senior officers that are able to kick the member immediately. Officers should be versed in the guild etiquette and should try to be versed trial etiquette as well, if you are a trialer.
+
+3.    Participate – I encourage all officers to participate with our guildies. Whether it is in the form of guild chat, Discord chat, participating in trial runs, housing contests, etc. We are the lifeblood of the guild and many of the members look to us for consistency and guidance. That doesn’t mean you have to run with everyone all the time, I do understand needing to have self-focused activities. All I’m asking is to jump in there once and a while.
+
+4.    Input – At times there may be questions posted in the-round-table . I expect and encourage all officers to weigh in on these questions. They help the Council decide on topics as we discuss options. We are a community lead guild and there are times we would like to know more about your opinions, before moving forward in a specific direction.
+
+## Content Rules
+
+Grouping – Grouping for content typically happens 15 minutes before event start time. Please let your host know if you’re going to be cutting it close, so your position isn’t filled by another. Make sure you have read the description of the event you are signed up for so that you meet any stated requirements. If you cannot make the event, please do your best to notify the host or remove yourself from the sign-up as soon as possible. Consistent no shows may cause you to be unable to sign up for future events.
+
+Performance – Be trial ready by the time the event start time. Meaning food is active, proper gear equipped/repaired, potions slotted, weapons charged, and inventory cleared. Follow hosts instructions and clear comms when asked. Know your role to the best of your ability, if you have questions about gear and skill loadouts, ask.
+
+Trial Specifics – Trial hosts operate differently, so do your best to listen to their instructions, requests for gear/skill loadouts, and read the sign-up description for requirements. Wait for crown to inform the group before starting. Stay in your stacks when required for mechanics and better healing. The person running the trial will provide mechanic callouts. Be respectful of their direction, if you feel like something is missed or want to add to the callout, wait until they are finished giving direction. As mentioned earlier, clear comms when asked so the callouts can be given without chatter. Wait for the trial to complete before exchanging gear and it is normal practice NOT to charge fellow trialers for gear swaps.
+___
+Event Signups – If you are signing up for content that has specific requirements, such as dps damage ratings or trial clears please make sure you have provided your submissions to the verification channels. For dps this means submitting a parse video with trial clears. For support roles please submit your gear load and clears. If you do not have a submission with the guild, there is not a guarantee that you will be allowed to participate, that decision will be left to the host.
+
+The guild is a family, and we want to help facilitate your experience in trials. We cannot guarantee the experience you will have in every trial ran through our trial-finder will be the best. But there will be teaching runs offered regularly, this is a great environment to learn without feeling stressed about performance. If you post a trial run through the guild you are expected to remain courteous and friendly, even if the trial doesn’t seem to be going as well as hoped for. If there are issues with guild members during your runs, please inform an officer so we can handle it in a professional manner. Thank you for your time reading through these basic etiquettes and let's keep the good times flowing!

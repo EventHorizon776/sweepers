@@ -2,14 +2,14 @@ site_name: Sweepers Inc. Officers Portal
 
 theme:
     name: material
-    
+
 
 nav:
 - Home: index.md
-- Our Job: roles.md
-- About Our Ranks: rank.md
-- Process:
-    - Raffle: raffle.md
+- Rules: rules.md
+- About the Guild:
+    - About Our Ranks: rank.md
+    - GOCC: gocc.md
 
 
 copyright: Copyright &copy; 2022 Chimney Sweepers
