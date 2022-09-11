@@ -6,16 +6,25 @@ theme:
 
 nav:
 - Home: index.md
+- Dashboards: dashboards.md
+- Analytics: analytics.md
 - Rules: rules.md
+- Rank Change Guide:
+    - Non-Officer Promotions: promotions/nonofficer.md
+    - Officer Promotions: promotions/officer.md
+    - Demotions: promotions/demotion.md
 - Verification Guides:
-    - Guild Rules: verification.md
-    - Verification Guidelines: vg_admin.md
+    - Guild Rules: verification/verification.md
+    - Verification Guidelines: verification/vg_admin.md
 - About the Guild:
-    - About Our Ranks: rank.md
-    - Guild Analytics: gocc.md
+    - About Our Ranks: about/rank.md
+    - Guild Divisions: about/division.md
+    - Recruitment Info: about/recruit.md
+    - Guild Analytics: about/gocc.md
 
 
-copyright: Copyright &copy; 2022 Chimney Sweepers
+
+copyright: Copyright &copy; 2022 Chimney Sweepers (Sweepers Inc.)
 
 markdown_extentions:
 
